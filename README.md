@@ -18,11 +18,9 @@
   <img src="https://img.icons8.com/color/48/css3.png" width="40" alt="CSS3"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java"/>
-  <img src="https://img.shields.io/badge/JDBC-007396.svg?&style=flat&logo=java&logoColor=white" alt="JDBC"/>
   <img src="https://img.icons8.com/fluency/48/mysql-logo.png" width="40" alt="MySQL"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="40" alt="Hibernate"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" alt="Spring"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" width="100" alt="Spring Boot"/>
 </p>
 
 
