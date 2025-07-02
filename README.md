@@ -10,7 +10,7 @@
 [<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="30"/>](https://instagram.com/thanioruvan161229)
 [<img src="https://img.icons8.com/color/48/000000/gmail.png" width="30"/>](mailto:thanioruvan161229@gmail.com)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30"/>](https://www.linkedin.com/in/kannantechie
-).
+)
 
 
 # 💻 Tech Stack:
