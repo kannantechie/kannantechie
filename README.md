@@ -1,16 +1,25 @@
 # 💫 About Me:
-🎓 Computer Science Graduate (2025)<br><br>💻 Currently learning Java Full Stack (Java, MySQL, HTML, CSS)<br><br>🚀 Exploring Hibernate, Spring Boot, and Web Development<br><br>🔐 Interested in Cybersecurity, Ethical Hacking, and Network Security <br><br>🧠 I enjoy solving real-world problems through code<br><br>🌱 Always learning something new and improving my skills
-
+🎓 Computer Science Graduate (2025)<br><br>
+💻 Currently learning Java Full Stack (Java, MySQL, HTML, CSS)<br><br>
+🚀 Exploring Hibernate, Spring Boot, and Web Development<br><br>
+🔐 Interested in Cybersecurity, Ethical Hacking, and Network Security <br><br>
+🧠 I enjoy solving real-world problems through code<br><br>
+🌱 Always learning something new and improving my skills
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thanioruvan161229) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thanioruvan161229@gmail.com) 
+[<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="30"/>](https://instagram.com/thanioruvan161229)
+[<img src="https://img.icons8.com/color/48/000000/gmail.png" width="30"/>](mailto:thanioruvan161229@gmail.com)
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=Hibernate&logoColor=white)
+<img src="https://img.icons8.com/color/48/html-5.png" width="30"/>
+<img src="https://img.icons8.com/color/48/css3.png" width="30"/>
+<img src="https://img.icons8.com/fluency/48/mysql-logo.png" width="30"/>
+<img src="https://img.icons8.com/ios-filled/50/hibernate-orm.png" width="30"/>
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kannantechie&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=kannantechie&theme=default_repocard&hide_border=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kannantechie&theme=default_repocard&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kannantechie&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kannantechie&theme=default_repocard&hide_border=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kannantechie&theme=radical&no-frame=false&no-bg=false&margin-w=4)
