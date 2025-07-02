@@ -15,8 +15,9 @@
   <img src="https://img.icons8.com/color/48/html-5.png" width="40" alt="HTML5"/>
   <img src="https://img.icons8.com/color/48/css3.png" width="40" alt="CSS3"/>
   <img src="https://img.icons8.com/fluency/48/mysql-logo.png" width="40" alt="MySQL"/>
-  <img src="https://img.icons8.com/ios-filled/50/hibernate-orm.png" width="40" alt="Hibernate"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="40" alt="Hibernate"/>
 </p>
+
 
 
 ### ✍️ Random Dev Quote
