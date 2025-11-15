@@ -1,8 +1,8 @@
 💫 About Me:
 🎓 Computer Science Graduate (2025)
-💻 Currently learning Java Full Stack (Java, MySQL, HTML, CSS)
+💻 Studied Java Full Stack (Java, MySQL, HTML, CSS)
 🚀 Exploring Hibernate, Spring Boot, and Web Development
-🔐 Interested in Cybersecurity, Ethical Hacking, and Network Security 
+🔐 Interested in Cybersecurity, Ethical Hacking, and Network Security
 🧠 I enjoy solving real-world problems through code
 🌱 Always learning something new and improving my skills
 🌐 Pursuing CCNA certification for networking expertise
