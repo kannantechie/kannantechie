@@ -1,4 +1,4 @@
-💫 About Me:
+#💫 About Me:
 🎓 Computer Science Graduate (2025)
 💻 Studied Java Full Stack (Java, MySQL, HTML, CSS)
 🚀 Exploring Hibernate, Spring Boot, and Web Development
